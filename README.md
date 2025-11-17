@@ -1,5 +1,4 @@
-# Get HadUK weather data - rain, temperature etc. 
-
+# Get HadUK weather data using R
 Met Office HadUK weather data is freely available for academic use via the CEDA archive https://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb/
 
 These data are organised by month and variable. E.g. rainfall/day/v20240514/rainfall_hadukgrid_uk_1km_day_20151001-20151031.nc contains 1 month of daily rainfall data for the UK. These data and are stored in NetCDF files. This can make accessing the data finicky in R. 
