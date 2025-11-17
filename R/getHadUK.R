@@ -40,8 +40,8 @@
 #')
 
 getHadUK <- function(
-  username = "roconnellbooth",
-  password = "xx",
+  username = "myCEDAusername",
+  password = "myCEDApassword",
   version = "v1.3.0.ceda",
   subversion = "v20240514",
   var = "rainfall",
